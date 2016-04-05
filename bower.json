@@ -1,0 +1,17 @@
+{
+  "name": "purescript-functor-semigroups",
+  "version": "1.0.0",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-control": "~0.3.2",
+    "purescript-monoid": "~0.3.2"
+  }
+}
